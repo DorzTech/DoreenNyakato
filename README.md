@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DoreenNyakato
-- 👀 I’m interested in DataScience/Machine Learning and also Software Development
-- 🌱 I’m currently learning Data Science with World Quant University
-- 💞️ I’m looking to collaborate on projects to improve  techniques and find solutions  relevant to my field of study
+- 👀 I’m interested in programming and its use in DataScience/Machine Learning and Software Development
+- 🌱 I’m currently learning Data Science with World Quant University and doing internship and learning with other software developers at Zimba interns 
+- 💞️ I’m looking to collaborate on grow throuh exposure to different concepts and techniques
 - 📫 0781603398
 
 <!---
